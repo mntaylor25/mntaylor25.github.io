@@ -1,4 +1,7 @@
 # mntaylor25.github.io
+
 Meghan Taylor - mnpearce@my.waketech.edu
-This is my account CTI110
-This repository will be for all things related to CTI110
+
+This is my account for CTI110.
+
+This repository will be for all things related to CTI110.
